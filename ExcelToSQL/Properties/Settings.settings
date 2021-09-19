@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExcelToSQL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DB_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Praktikum</Value>
+    </Setting>
+    <Setting Name="Path_to_folder_library" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;C:\Users\gaxy\Desktop\test&lt;/string&gt;
+  &lt;string&gt;C:\Users\gaxy\Desktop\test2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Copy_from" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gaxy\Desktop\1</Value>
+    </Setting>
+    <Setting Name="Copy_to" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gaxy\Desktop\test1</Value>
+    </Setting>
+    <Setting Name="open" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SQL_string" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=NOTEPC\SQLEXPRESS;Initial Catalog=praktikum;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
